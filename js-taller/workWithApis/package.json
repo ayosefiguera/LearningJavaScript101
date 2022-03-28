@@ -1,0 +1,11 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "consumir Apis con Javascript",
+  "main": "index.js",
+  "scripts": {
+    "callback": "node src/callback/index.js"
+  },
+  "author": "Ayose Figuera",
+  "license": "MIT"
+}
